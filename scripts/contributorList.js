@@ -126,4 +126,9 @@ let contributors = [
         "name": "Ujjawal"
     }
     ,
+    {
+        "github": "https://github.com/emmamayne23",
+        "name": "Emmanuel Yaan-Tol"
+    }
+    ,
 ]
